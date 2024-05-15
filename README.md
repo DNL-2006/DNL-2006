@@ -2,8 +2,8 @@
 - 👀 I’m interested in learning new things and connecting with people.
 - 🌱 I’m currently learning PHP and MySQL.
 - 💞️ I’m looking to collaborate on anything profitable.
-- 📫 How to reach me 
-- 😄 Pronouns: ...
+<!-- 📫 How to reach me 
+- 😄 Pronouns: ... -->
 - ⚡ Fun fact: i love what i do 🥹
 
 <!---
